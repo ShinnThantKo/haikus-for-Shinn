@@ -7,4 +7,4 @@ Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com
 
 Project Developer:
 Shinn Thant Ko, Computer Science Student
-Sally Jomes, Jr. Developer
+Sally Jones, Jr. Developer
